@@ -26,8 +26,7 @@ public class Main {
 				int length = num.length;
 
 				JOptionPane.showMessageDialog(popup, c.par(num, length - 1));
-		
-		
+			
 	}
 
 }
